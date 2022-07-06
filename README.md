@@ -61,7 +61,7 @@ that has a size of 2em will have a font-size of 28px on the page
 	font-size: 1em;
 }
 ```
-
+<br/>
 This CSS Snippet section will allow you to customize various button and icon sizes on Youreka Forms.
 
 
