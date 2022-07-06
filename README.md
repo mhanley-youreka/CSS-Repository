@@ -5,10 +5,10 @@ Form Templates.
 
 ## Features
 
-CSS code that provide an easy way to style and customize various aspects of your 
+CSS code snippets that provide a simple way to style and customize various aspects of your 
 Youreka Forms.
 
-Each snippets value can be adjusted as needed to position, increase/decrease size, 
+Each snippets value can be adjusted as needed to, for instance, position, increase/decrease size, 
 change color ect. Additionally, each CSS snippet will work in combination with 
 other snippets to style your template and forms as needed.
 
