@@ -1,6 +1,17 @@
-# Youreka CSS Snippets  
+# Youreka CSS Snippets 
+
+All font sizes in this section are set to be relative 
+to the .slds class font-size. If you want to change everything 
+proportionally, change just the font-size in the .slds class.
+If you want to change font-sizes relative other ones, change 
+the indvidual styles in the Set Relative Font Size section below.
+
+NOTE: The "em" unit of measure is proportional to the parent size. 
+For example, if .slds has a font-size of 14px, a another class 
+that has a size of 2em will have a font-size of 28px on the page 
+(e.g. 2 x 14).
       
-## Set Universal Font Size
+## Set Proportional Font Size
 
 ```css
 .slds {
