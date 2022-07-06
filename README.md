@@ -1,5 +1,29 @@
 # Youreka CSS Snippets 
 
+A comprehensive collection of CSS Snippets that can be applied to your Youreka 
+Form Templates.
+
+## Features
+
+CSS code that provide an easy way to style and customize various aspects of your 
+Youreka Forms.
+
+Each snippets value can be adjusted as needed to position, increase/decrease size, 
+change color ect. Additionally, each CSS snippet will work in combination with 
+other snippets to style your template and forms as needed.
+
+## Snippets
+
+| CSS Sections                | Description                                             |
+| --------------------------- | ------------------------------------------------------- |
+| `Font Size`                 | Adjust the text size on a Youreka Form                  |
+| `Button and Icon Sizes`     | Adjust the size value of Buttons and Icons              |
+| `Color/Theme Styling`       | Add custom color styling to text, backgrounds, borders  |
+
+## Full Expansions
+
+# Font Size
+
 All font sizes in this section are set to be relative 
 to the .slds class font-size. If you want to change everything 
 proportionally, change just the font-size in the .slds class.
@@ -66,7 +90,7 @@ This CSS Snippet section will allow you to customize various button and icon siz
 
 
 
-## Adjust Button and Icon Sizes
+# Adjust Button and Icon Sizes
 
 ### Save Buttons Size
 
@@ -154,10 +178,10 @@ This CSS Snippet section will allow you to customize various button and icon siz
   	padding-top: 0.5em;
 }
 ```
-
+<br/>
 This CSS Snippet section will allow you to customize the color of text, backgrounds, and borders of various elements on Youreka Forms.
     
-## Adjust Youreka Form Colors
+# Adjust Form Color Style
 
 ### Save Buttons Bar
 
