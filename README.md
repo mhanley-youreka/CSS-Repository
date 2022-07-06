@@ -62,7 +62,7 @@ that has a size of 2em will have a font-size of 28px on the page
 }
 ```
 
-
+This CSS Snippet section will allow you to customize various button and icon sizes on Youreka Forms.
 
 
 
@@ -154,6 +154,8 @@ that has a size of 2em will have a font-size of 28px on the page
   	padding-top: 0.5em;
 }
 ```
+
+This CSS Snippet section will allow you to customize the color of text, backgrounds, and borders of various elements on Youreka Forms.
     
 ## Adjust Youreka Form Colors
 
