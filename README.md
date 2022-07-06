@@ -142,5 +142,84 @@
 }
 ```
     
+## Adjust Youreka Form Colors
+
+### Save Buttons Bar
+
+```css
+.slds .buttons-fixed {
+    background-color: #009ACD;
+}
+```
+
+
+### Form Template Name
+
+```css
+h1.formName,
+h3.slds-text-heading--small {
+   color: #A95014; 
+}
+```
+
+
+### Form Background Color
+
+```css
+body#complete-form.slds {
+    background-color: #94E9E8;
+}
+```
+
+
+### Section Header Font Color
+
+```css
+.slds .currentPageContainer { 
+    color: #ecf2fb;  
+}
+```
+
+
+### Section Header and Footer Background Color & Border Color
+
+```css
+.slds .slds-card { /* ELEMENTS: Section Header and Footer */
+    background-color: #418638;
+    border-color: #94E9E8;
+}
+```
+
+
+### Section Body Background, Border, and Text Color
+
+```css
+.slds .slds-card__body.OR-card__body.slds-p-left--small { 
+    background-color: #75A05F;
+    border-color: #94E9E8;
+    color: #fff;  
+}
+```
+
+### Attachments Count Badge, Attachments, Multi-select Picklist Options Text & Background Color
+
+```css
+.slds .controls .selected-files .file-preview, /* ELEMENT: Attachment Count Badge */
+.slds .controls .slds-file-selector .slds-badge.slds-theme--info, /* ELEMENT: Attachments */
+.ms-selectable .ui-widget-content.ui-selectee.ui-selected { /* ELEMENT: Selected Multi-select Picklist Options */
+    color: #75A05F;  /* STYLE: Text color */
+    background-color: #fff;
+}
+```
+
+### Checkbox and Radio Button Label Colors
+
+```css
+.slds .slds-form-element__control .slds-form-element__label,
+.slds .slds-card__body.OR-card__body.slds-p-left--small  .control-label { 
+    color: #fff !important;  
+} 
+```
+
 
     
