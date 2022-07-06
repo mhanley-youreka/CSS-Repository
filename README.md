@@ -14,11 +14,11 @@ other snippets to style your template and forms as needed.
 
 ## Snippets
 
-| CSS Sections                                 | Description                                             |
-| -------------------------------------------- | ------------------------------------------------------- |
-| [Font Size](#font-size)                      | Adjust the text size on a Youreka Form                  |
-| [Button & Icon Size](#button-and-icon-sizes) | Adjust the size value of Buttons and Icons              |
-| [Color & Theme Style](#form-color-style)     | Add custom color styling to text, backgrounds, borders  |
+| CSS Sections                                          | Description                                             |
+| ----------------------------------------------------- | ------------------------------------------------------- |
+| [Font Size](#font-size)                               | Adjust the text size on a Youreka Form                  |
+| [Button and Icon Size](#button-and-icon-size)         | Adjust the size value of Buttons and Icons              |
+| [Color Styling and Design](#color-and-design-styling) | Add custom color styling to text, backgrounds, borders  |
 
 ## Full Expansions
 
@@ -180,7 +180,7 @@ This CSS Snippet section will allow you to customize various button and icon siz
 <br/>
 
     
-## Form Color Style
+## Color and Design Styling
 <br/>
 This CSS Snippet section will allow you to customize the color of text, backgrounds, and borders of various elements on Youreka Forms.
 
