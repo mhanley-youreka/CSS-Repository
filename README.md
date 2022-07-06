@@ -88,9 +88,9 @@ that has a size of 2em will have a font-size of 28px on the page
 <br/>
 This CSS Snippet section will allow you to customize various button and icon sizes on Youreka Forms.
 
-
-
 # Adjust Button and Icon Sizes
+<br/>
+This CSS Snippet section will allow you to customize various button and icon sizes on Youreka Forms.
 
 ### Save Buttons Size
 
@@ -179,9 +179,11 @@ This CSS Snippet section will allow you to customize various button and icon siz
 }
 ```
 <br/>
-This CSS Snippet section will allow you to customize the color of text, backgrounds, and borders of various elements on Youreka Forms.
+
     
 # Adjust Form Color Style
+<br/>
+This CSS Snippet section will allow you to customize the color of text, backgrounds, and borders of various elements on Youreka Forms.
 
 ### Save Buttons Bar
 
@@ -243,10 +245,10 @@ body#complete-form.slds {
 ### Attachments Count Badge, Attachments, Multi-select Picklist Options Text & Background Color
 
 ```css
-.slds .controls .selected-files .file-preview, /* ELEMENT: Attachment Count Badge */
-.slds .controls .slds-file-selector .slds-badge.slds-theme--info, /* ELEMENT: Attachments */
-.ms-selectable .ui-widget-content.ui-selectee.ui-selected { /* ELEMENT: Selected Multi-select Picklist Options */
-    color: #75A05F;  /* STYLE: Text color */
+.slds .controls .selected-files .file-preview, 
+.slds .controls .slds-file-selector .slds-badge.slds-theme--info,
+.ms-selectable .ui-widget-content.ui-selectee.ui-selected {
+    color: #75A05F;  
     background-color: #fff;
 }
 ```
